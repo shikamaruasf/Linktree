@@ -1,0 +1,31 @@
+body {
+  background-color: slateblue;
+  font-family: Courier New;
+  text-align: center;
+  color: white;
+}
+img{
+  height: 200px;
+  width: 200px;
+  border-radius: 0 30px 0 30px;
+}
+h1 {
+  font-family: Times New Roman;
+
+}
+h3 {
+  font-family: Lucida Console;
+}
+
+a {
+  color: white;
+  background-color: rgb(3, 105, 148);
+  text-align: center;
+  font-size: 20px;
+  font-family: ;
+  border: solid 5px chrome;
+  border-radius: 0 6px 0 6px;
+  margin: 6px 10px 6px 10px;
+  padding: 10px;
+  display: block;
+}
